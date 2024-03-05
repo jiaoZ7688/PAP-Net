@@ -99,7 +99,7 @@ To train, test and run demo, see the example scripts at [`scripts/`](scripts/):
 
 ## Trained models
 - PAP-Net R50 on KINS (TBA)
-- PAP-Net R50 on D2SA (TBA)
+- PAP-Net R50 on D2SA (<a href="https://pan.baidu.com/s/1gxJDSh7uEoZkoulKax-l6g">here</a>). Extraction code：meju
 - PAP-Net R50 on COCOA-cls (TBA)
 
 ## Acknowledgement

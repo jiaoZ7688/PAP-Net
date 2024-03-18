@@ -46,6 +46,7 @@ python setup.py build_ext install
 git clone https://github.com/jiaoZ7688/PAP-Net
 cd PAP-Net/
 python3 setup.py build develop
+(!!! Detectron2 must be installed successfully !!!)
 
 ```
 ### 2. Data preparation

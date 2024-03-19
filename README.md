@@ -31,20 +31,10 @@ conda create -n PAP-Net python=3.8 -y
 source activate PAP-Net 
 
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
-pip install ninja yacs cython matplotlib tqdm
-pip install opencv-python
-pip install scikit-image
-pip install timm
-pip install setuptools
-pip install torch-dct
-
-# coco api
-git clone https://github.com/cocodataset/cocoapi.git
-cd cocoapi/PythonAPI
-python setup.py build_ext install
 
 git clone https://github.com/jiaoZ7688/PAP-Net
 cd PAP-Net/
+pip install -r requirements.txt
 python3 setup.py build develop
 (!!! Detectron2 must be installed successfully !!!)
 

@@ -27,10 +27,6 @@ from .meta_arch import (
     # MSDeformAttnPixelDecoder,
     # build_pixel_decoder,
 )
-from .pixel_decoder import (
-    MSDeformAttnPixelDecoder,
-    build_pixel_decoder,
-)
 from .postprocessing import detector_postprocess
 from .proposal_generator import (
     PROPOSAL_GENERATOR_REGISTRY,

@@ -20,7 +20,7 @@ Table of Contents
 
 ## Introduction
 <div align = 'None'>
-  <img src="figure/figure 3.jpg" width="100%" />
+  <img src="figure/fig_3.jpg" width="100%" />
 </div>
 The figure above illustrates the prediction results of PAP-Net.
 
